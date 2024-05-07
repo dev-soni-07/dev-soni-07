@@ -1,5 +1,5 @@
 # 💫 About Me:
-## About Me:<br><br>🔭 **I’m currently working on:**<br>   - Enhancing my full-stack development skills with focus on React, Node.js, and MongoDB.<br>   - Developing dynamic web applications and RESTful services that improve user experiences.<br><br>👯 **I’m looking to collaborate on:**<br>   - Open source projects that are focused on web development and innovative web technologies.<br>   - Projects that could benefit from my frontend and backend development skills.<br><br>🤝 **I’m looking for help with:**<br>   - Learning more about microservices architecture and cloud services like AWS or Azure.<br>   - Understanding advanced concepts in database management and optimization.<br><br>🌱 **I’m currently learning:**<br>   - Advanced React patterns and state management with Redux.<br>   - Server-side rendering and progressive web app (PWA) technologies.<br><br>💬 **Ask me about:**<br>   - Any questions related to HTML, CSS, JavaScript, React, and Node.js.<br>   - Best practices in web development and how to create responsive and efficient applications.<br><br>⚡ **Fun fact:**<br>   - I once participated in a hackathon where my team built a fully functional e-commerce prototype in just 48 hours!<br>   - I love to explore new technologies and apply them in real-world scenarios to see their impact.<br>
+🔭 **I’m currently working on:**<br>   - Enhancing my full-stack development skills with focus on React, Node.js, and MongoDB.<br>   - Developing dynamic web applications and RESTful services that improve user experiences.<br><br>👯 **I’m looking to collaborate on:**<br>   - Open source projects that are focused on web development and innovative web technologies.<br>   - Projects that could benefit from my frontend and backend development skills.<br><br>🤝 **I’m looking for help with:**<br>   - Learning more about microservices architecture and cloud services like AWS or Azure.<br>   - Understanding advanced concepts in database management and optimization.<br><br>🌱 **I’m currently learning:**<br>   - Advanced React patterns and state management with Redux.<br>   - Server-side rendering and progressive web app (PWA) technologies.<br><br>💬 **Ask me about:**<br>   - Any questions related to HTML, CSS, JavaScript, React, and Next.js.<br>   - Best practices in web development and how to create responsive and efficient applications.<br><br>⚡ **Fun fact:**<br>   - I once participated in a hackathon where my team built a fully functional e-commerce prototype in just 48 hours!<br>   - I love to explore new technologies and apply them in real-world scenarios to see their impact.<br>
 
 
 ## 🌐 Socials:
@@ -11,12 +11,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=dev-soni-07&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dev-soni-07&theme=react&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-soni-07&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=dev-soni-07&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=dev-soni-07&icon=5&color=1)](https://visitcount.itsvg.in)
