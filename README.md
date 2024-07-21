@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 **With hands-on experience in ReactJS, NextJS, and the MERN stack, I excel in building responsive front-end and scalable back-end solutions. Skilled in writing production-grade code and delivering efficient solutions, I am proficient in full stack development and modern web technologies. My successful tenure as an SDE at GeeksforGeeks honed my problem-solving, coding, and team collaboration skills. Eager to bring my technical expertise to a forward-thinking team. I aim to make a significant impact and grow with like-minded tech enthusiasts. Let's connect if you're looking for a dedicated professional committed to high-quality software solutions.**
+**With hands-on experience in ReactJS, NextJS, and the MERN stack, I excel in building responsive front-end and scalable back-end solutions. Skilled in writing production-grade code and delivering efficient solutions, I am proficient in full stack development and modern web technologies. My successful tenure as an SDE at GeeksforGeeks honed my problem-solving, coding, and team collaboration skills. Eager to bring my technical expertise to a forward-thinking team. I aim to make a significant impact and grow with like-minded tech enthusiasts. Let's connect if you're looking for a dedicated professional committed to high-quality software solutions.**
 
 
 ## 🌐 Socials:
