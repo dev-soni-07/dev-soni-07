@@ -1,11 +1,11 @@
 # 💫 About Me:
-**As a passionate Frontend Developer, I specialize in building modern, performant, and scalable web interfaces using ReactJS , NextJS and the MERN stack. I bring a proven track record of crafting responsive UI, integrating complex APIs, and writing production-ready code that delivers seamless user experiences.
+**As a passionate Frontend Developer, I specialize in building modern, performant, and scalable web interfaces using ReactJS , NextJS and the MERN stack. I bring a proven track record of crafting responsive UI, integrating complex APIs, and writing production-ready code that delivers seamless user experiences.**
 
-With hands-on experience, I have developed a strong foundation in component-driven development, state management and UI frameworks My work emphasizes clean architecture, reusability, and attention to detail, especially under tight deadlines and fast-paced product cycles.
+**With hands-on experience, I have developed a strong foundation in component-driven development, state management and UI frameworks My work emphasizes clean architecture, reusability, and attention to detail, especially under tight deadlines and fast-paced product cycles.**
 
-I thrive in collaborative environments, lead small teams when needed and enjoy solving frontend challenges that impact real users. I'm now looking to contribute to forward-thinking teams where I can drive meaningful impact through innovative front-end solutions.
+**I thrive in collaborative environments, lead small teams when needed and enjoy solving frontend challenges that impact real users. I'm now looking to contribute to forward-thinking teams where I can drive meaningful impact through innovative front-end solutions.**
 
-Let’s connect if you are looking for a developer who is not just technically sound, but also deeply committed to crafting exceptional user experiences.**
+**Let’s connect if you are looking for a developer who is not just technically sound, but also deeply committed to crafting exceptional user experiences.**
 
 
 ## 🌐 Socials:
